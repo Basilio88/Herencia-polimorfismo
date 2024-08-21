@@ -1,0 +1,4 @@
+inventario.CalculadorDePrecioPorCategoria
+inventario.CalculadorDePrecioSinDescuento
+inventario.CalculadorDePrecio
+inventario.CalculadorDePrecioConDescuento
